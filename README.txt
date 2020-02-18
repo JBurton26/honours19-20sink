@@ -1,4 +1,4 @@
-Mobile sink counterpart for project found <a href="https://github.com/JBurton26/honours19-20">here</a>
+Mobile sink counterpart for project found [here](https://github.com/JBurton26/honours19-20 "Honours 19-20")
 
 Written for use with Android in Java.
 Makes use of Moquette MQTT Broker (Possibly temporary)
